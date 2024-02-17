@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**JagodaBodnar/JagodaBodnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jagoda I am originally from Poland 
+but currently living in Sweden.
 
-Here are some ideas to get you started:
+My programming journey started from learning React and then working 
+as front-end developer (Angular), recently however I joined the dark side 😉 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What am I currently doing?
+I am currently diving deep into Java and SpringBoot. </br>
+
+You can find me on code wars doing kata. So far I reached 5kyu [here](https://www.codewars.com/users/JagodaBodnar) can check out my statistics.</br>
+
+I am also focusing on expanding my TypeScript and React knowledge.
+
+
+### Languages and some tools I am familiar with:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,jest,react,redux,angular)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,sass,)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,git,maven,postman,webpack)](https://skillicons.dev)
+
+
+
+
+
